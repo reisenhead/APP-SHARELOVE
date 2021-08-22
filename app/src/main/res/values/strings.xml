@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ShareLove</string>
+    <string name="mensaje_slogan"> Únete a la comunidad de vecinos que comparten felicidad!</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="logo_sharel">-ShareLove-</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="olvidaste_t">¿Olvidaste tu contraseña?</string>
+    <string name="no_tienes_cuenta">¿No tienes una cuenta?</string>
+    <string name="btn_crear_cuenta">Crear cuenta</string>
+    <string name="crea_tu_cuenta">¡Crea tu cuenta, unete y comparte felicidad!</string>
+    <string name="correotext">Correo electronico</string>
+    <string name="Telefonotext">Teléfono</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="text">Crear cuenta</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="text_botonComida">Comida</string>
+    <string name="text_menuPrincipal">Menú principal</string>
+    <string name="login_alternativo">ó</string>
+    <string name="btn_facebook">Continua con Facebook</string>
+    <string name="btn_google">Continua con Google</string>
+    <string name="barraizquierda">barraIzquierda</string>
+    <string name="barraderecha">barraDerecha</string>
+    <string name="logo_sharelove">logo_sharelove</string>
+    <string name="telefono">Número de teléfono</string>
+    <string name="mensaje_recuperar">Restablece tu contraseña</string>
+    <string name="btn_recuperar">Restablecer contraseña</string>
+    <string name="btn_volver_inicio">Regresar al inicio</string>
+    <string name="label_correo">Correo electrónico</string>
+    <string name="label_contraseña">Contraseña</string>
+    <string name="label_nombre">Nombre</string>
+    <string name="suffix_correo">\@example.com</string>
+    <string name="mensaje_inicio"> Únete a la comunidad de vecinos que comparten felicidad!</string>
+
+    <string name="delete">Eliminar</string>
+    <string name="share">Compartir</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Cerrar</string>
+    <string name="delete_element">Deleting element</string>
+    <string name="sharing_element">Sharing element</string>
+    <string name="user">Usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="drawer.home">Home</string>
+    <string name="drawer.account">Cuenta</string>
+    <string name="drawer.payments">Donaciones</string>
+    <string name="drawer.settings">Configuración</string>
+    <string name="drawer.extra">Adicional</string>
+    <string name="drawer.about">Acerca de Share Love</string>
+    <string name="drawer.privacy">Aviso de Privacidad</string>
+    <string name="drawer.profile">Perfil</string>
+    <string name="drawer.locacion">Ubicación</string>
+    <string name="drawer.shirt">Ropa</string>
+    <string name="drawer.food">Comida</string>
+    <string name="drawer.notificacion">Notificación</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="sharelove">ShareLove</string>
+    <string name="Agregar">Agregar</string>
+    <string name="description">Descripción</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="item">Item</string>
+    <string name="btn_pedir">Pedir este articulo</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_navigat_drawer">NavigatDrawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="action_2">Heart</string>
+
+
+</resources>
